@@ -1,0 +1,20 @@
+2025-05-05 22:57:48.767315 | KH: Em muốn đổi hàng shop ơi
+22:57 | BOT: p
+2025-05-05 23:04:04.607487 | KH: Em muốn đổi hàng shop ơi
+23:03 | BOT: r
+2025-05-05 23:04:06.705955 | KH: Sáng shop giao giúp em nha!!!!
+23:02 | BOT: Cảm ơn bạn đã nhắn tin cho shop! Mình sẽ hỗ trợ bạn ngay nhé 💙
+2025-05-05 23:12:39.012100 | KH: Em muốn đổi hàng shop ơi
+23:12 | BOT: s
+2025-05-05 23:15:11.790714 | KH: Em muốn đổi hàng shop ơi
+23:14 | BOT: Dạ em có thể cho mình biết lý do em muốn đổi hàng để bên mình hỗ trợ em tốt nhất được không ạ?
+2025-05-05 23:16:49.111810 | KH: Shop xử lý giúp em nha
+23:16 | BOT: Dạ, mình có thể giúp gì cho bạn ạ?
+2025-05-05 23:17:55.046030 | KH: Đây là mã đơn hàng, shop hỗ trợ đổi hàng giúp mình
+23:17 | BOT: Dạ bạn cho mình xin thêm thông tin về lý do đổi hàng và tên sản phẩm cần đổi để mình có thể hỗ trợ bạn một cách tốt nhất nhé!
+2025-05-05 23:31:30.416830 | KH: Shop có giao hỏa tốc không ạ
+23:29 | BOT: Dạ bên em có hỗ trợ giao hàng hỏa tốc ạ. Nếu quý khách chọn giao hỏa tốc thì đơn hàng sẽ được giao trong ngày từ 8h đến 17h ạ. Cảm ơn quý khách đã quan tâm đến sản phẩm của shop!
+2025-05-06 00:17:04.499924 | KH: Shop ơi shop đổi hàng giúp em nhá tai nghe bị lỗi rồi ạ
+00:04 | BOT:  
+2025-05-06 00:17:12.030167 | KH: Mong qua lấy sớm ...
+23:41 | BOT: Dạ bên em hiểu tâm trạng của anh/chị. Nếu mình có thể xác nhận đơn hàng sớm, bên em sẽ cố gắng sắp xếp để giao hàng sớm nhất có thể cho mình ạ. Anh/chị vui lòng cho em xin thông tin đơn hàng để em kiểm tra trạng thái và hỗ trợ anh/chị tốt nhất nhé!

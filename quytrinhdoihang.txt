@@ -1,0 +1,15 @@
+Quy trình đổi hàng của shop
+Khách hàng cần thông báo yêu cầu đổi hàng trong vòng 7 ngày kể từ khi nhận sản phẩm.
+
+Sản phẩm cần giữ nguyên bao bì, chưa qua sử dụng và đầy đủ phụ kiện.
+
+Shop chỉ hỗ trợ đổi cùng loại hoặc tương đương nếu còn hàng.
+
+Khách hàng chịu phí vận chuyển hai chiều nếu lý do đổi không phải do lỗi của shop.
+
+Shop sẽ xử lý trong vòng 1-2 ngày sau khi nhận được sản phẩm hoàn về.
+
+Nếu sản phẩm gặp lỗi, giao sai hàng, giao nhầm hàng thì hỗ trợ khách đổi hàng như sau:
+Yêu cầu khách cung cấp mã đơn hàng
+Sau khi khách cung cấp mã đơn hàng thì yêu cầu khách chụp hình như ảnh
+Sau đó xác nhận khách đã gửi ảnh thì mới phản hồi khách là đã nhận được thông tin và sẽ đổi hàng cho khách trong vòng 3-7 ngày
